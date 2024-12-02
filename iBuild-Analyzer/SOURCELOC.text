@@ -1,0 +1,41 @@
+Source Location Report
+Summary report:
+TSTXLIVE objects:
+    Objects with source in library TSTXLIVE: 14
+TSTXREPO objects:
+    Objects with source in library TSTXLIVE: 14
+
+Detail report:
+TSTXLIVE objects:
+    Objects with source in library TSTXLIVE:
+        *MODULE RPGLE   TSTXLIVE/CUSMAIN                    
+        *FILE DSPF      TSTXLIVE/MAINMENU                   
+        *MODULE RPGLE   TSTXLIVE/CUSMNT                     
+        *FILE LF        TSTXLIVE/CUSMSTL1                   
+        *FILE PF        TSTXLIVE/CUSMST                     
+        *FILE DSPF      TSTXLIVE/MNTMENU                    
+        *MODULE RPGLE   TSTXLIVE/SCHNAM                     
+        *FILE LF        TSTXLIVE/CUSMSTL3                   
+        *FILE DSPF      TSTXLIVE/SCHNAMD                    
+        *MODULE RPGLE   TSTXLIVE/SCHZIP                     
+        *FILE LF        TSTXLIVE/CUSMSTL2                   
+        *FILE DSPF      TSTXLIVE/SCHZIPD                    
+        *PGM RPGLE      TSTXLIVE/SCHNAMRPG                  
+        *CMD            TSTXLIVE/CUSTMAINT                  
+TSTXREPO objects:
+    Objects with source in library TSTXLIVE:
+        *PGM RPGLE      TSTXREPO/SCHNAMRPG                  
+        *MODULE RPGLE   TSTXREPO/CUSMAIN                    
+        *MODULE RPGLE   TSTXREPO/CUSMNT                     
+        *MODULE RPGLE   TSTXREPO/SCHNAM                     
+        *MODULE RPGLE   TSTXREPO/SCHZIP                     
+        *CMD            TSTXREPO/CUSTMAINT                  
+        *FILE PF        TSTXREPO/CUSMST                     
+        *FILE LF        TSTXREPO/CUSMSTL1                   
+        *FILE LF        TSTXREPO/CUSMSTL2                   
+        *FILE LF        TSTXREPO/CUSMSTL3                   
+        *FILE DSPF      TSTXREPO/MAINMENU                   
+        *FILE DSPF      TSTXREPO/MNTMENU                    
+        *FILE DSPF      TSTXREPO/SCHNAMD                    
+        *FILE DSPF      TSTXREPO/SCHZIPD                    
+End of Source Location Report.

@@ -1,0 +1,45 @@
+Requisite Location Report
+Summary report:
+TSTXLIVE objects:
+    Objects with requisites in library TSTXLIVE: 14
+    Objects with requisites in library TSTXLIVE: 14
+TSTXREPO objects:
+    Objects with requisites in library TSTXREPO: 0
+    Objects with requisites in library TSTXLIVE: 14
+    Objects with requisites in library TSTXREPO: 0
+
+Detail report:
+TSTXLIVE objects:
+    Objects with requisites in library TSTXLIVE:
+        *CMD            TSTXLIVE/CUSTMAINT                  
+        *FILE PF        TSTXLIVE/CUSMST                     
+        *FILE LF        TSTXLIVE/CUSMSTL1                   
+        *FILE LF        TSTXLIVE/CUSMSTL2                   
+        *FILE LF        TSTXLIVE/CUSMSTL3                   
+        *FILE DSPF      TSTXLIVE/MAINMENU                   
+        *FILE DSPF      TSTXLIVE/MNTMENU                    
+        *FILE DSPF      TSTXLIVE/SCHNAMD                    
+        *FILE DSPF      TSTXLIVE/SCHZIPD                    
+        *MODULE RPGLE   TSTXLIVE/CUSMAIN                    
+        *MODULE RPGLE   TSTXLIVE/CUSMNT                     
+        *MODULE RPGLE   TSTXLIVE/SCHNAM                     
+        *MODULE RPGLE   TSTXLIVE/SCHZIP                     
+        *PGM RPGLE      TSTXLIVE/CUSTMAINT                  
+TSTXREPO objects:
+    Objects with requisites in library TSTXLIVE:
+        *CMD            TSTXREPO/CUSTMAINT                  
+        *FILE PF        TSTXREPO/CUSMST                     
+        *FILE LF        TSTXREPO/CUSMSTL1                   
+        *FILE LF        TSTXREPO/CUSMSTL2                   
+        *FILE LF        TSTXREPO/CUSMSTL3                   
+        *FILE DSPF      TSTXREPO/MAINMENU                   
+        *FILE DSPF      TSTXREPO/MNTMENU                    
+        *FILE DSPF      TSTXREPO/SCHNAMD                    
+        *FILE DSPF      TSTXREPO/SCHZIPD                    
+        *MODULE RPGLE   TSTXREPO/CUSMAIN                    
+        *MODULE RPGLE   TSTXREPO/CUSMNT                     
+        *MODULE RPGLE   TSTXREPO/SCHNAM                     
+        *MODULE RPGLE   TSTXREPO/SCHZIP                     
+        *PGM RPGLE      TSTXREPO/CUSTMAINT                  
+    Objects with requisites in library TSTXREPO:
+End of Requisite Location Report.

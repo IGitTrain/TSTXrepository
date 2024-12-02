@@ -1,0 +1,68 @@
+Object Selection Report (*OBJSEL)
+Input object selection Criteria:
+   TSTXREPO/*ALL (*PGM *SRVPGM *SQLPKG *MODULE *BNDDIR *CMD *MSGF *FILE *MENU *PNLGRP *NOTTGT) ~
+   TSTXLIVE/*ALL (*PGM *SRVPGM *SQLPKG *MODULE *BNDDIR *CMD *MSGF *FILE *MENU *PNLGRP *NOTTGT) ~
+
+Result of object selection:
+   TSTXREPO/*ALL (*PGM *SRVPGM *SQLPKG *MODULE *BNDDIR *CMD *MSGF *FILE *MENU *PNLGRP *NOTTGT) ~
+     TSTXREPO
+          *PGM
+               CUSTMAINT   RPGLE   
+               SCHNAMRPG   RPGLE   
+          *MODULE
+               CUSMAIN     RPGLE   
+               CUSMNT      RPGLE   
+               SCHNAM      RPGLE   
+               SCHZIP      RPGLE   
+          *CMD
+               CUSTMAINT           
+          *FILE
+               CUSMST      PF      
+               CUSMSTL1    LF      
+               CUSMSTL2    LF      
+               CUSMSTL3    LF      
+               MAINMENU    DSPF    
+               MNTMENU     DSPF    
+               QCLSRC      PF      
+               QCMDSRC     PF      
+               QDDSSRC     PF      
+               QRPGLESRC   PF      
+               QSQLSRC     PF      
+               QTXTSRC     PF      
+               SCHNAMD     DSPF    
+               SCHZIPD     DSPF    
+          *DTAARA
+               ERAALZDIR           
+   TSTXLIVE/*ALL (*PGM *SRVPGM *SQLPKG *MODULE *BNDDIR *CMD *MSGF *FILE *MENU *PNLGRP *NOTTGT) ~
+     TSTXLIVE
+          *PGM
+               CUSTMAINT   RPGLE   
+               SCHNAMRPG   RPGLE   
+          *MODULE
+               CUSMAIN     RPGLE   
+               CUSMNT      RPGLE   
+               SCHNAM      RPGLE   
+               SCHZIP      RPGLE   
+          *CMD
+               CUSTMAINT           
+          *FILE
+               CUSMST      PF      
+               CUSMSTL1    LF      
+               CUSMSTL2    LF      
+               CUSMSTL3    LF      
+               MAINMENU    DSPF    
+               MNTMENU     DSPF    
+               QCLSRC      PF      
+               QCMDSRC     PF      
+               QDDSSRC     PF      
+               QRPGLESRC   PF      
+               QSQLSRC     PF      
+               QTXTSRC     PF      
+               SCHNAMD     DSPF    
+               SCHZIPD     DSPF    
+          *DTAARA
+               GITREPO             
+               IGITOFFSET          
+               IGITPRPCTL          
+               LASTSAVE            
+End of Object Selection Report
